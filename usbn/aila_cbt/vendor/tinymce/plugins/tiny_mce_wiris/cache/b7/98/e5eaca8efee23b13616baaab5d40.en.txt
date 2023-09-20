@@ -1,0 +1,1 @@
+{"result":{"text":"6 over 36"},"status":"ok"}

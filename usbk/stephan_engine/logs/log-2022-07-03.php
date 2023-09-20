@@ -1,0 +1,18 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-07-03 11:53:01 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 11:53:01 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 11:53:01 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 11:53:01 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 17:34:36 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 17:34:36 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 17:34:36 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 17:34:36 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 22:40:45 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 22:40:45 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 22:40:45 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 22:40:45 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 23:46:18 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 23:46:18 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 23:46:18 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34
+ERROR - 2022-07-03 23:46:18 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbk/stephan_engine/views/frontend/template/login-template.php 34

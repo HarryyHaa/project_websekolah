@@ -1,0 +1,17 @@
+{
+    "name": "pratama/belajar",
+    "description": "pratama",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jaja triharja",
+            "email": "jajatriharja@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5",
+        "longman/telegram-bot": "^0.61.1",
+        "picqer/php-barcode-generator": "^2.0"
+    }
+}

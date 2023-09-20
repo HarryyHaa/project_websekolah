@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 14"},"status":"ok"}

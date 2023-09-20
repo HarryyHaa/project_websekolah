@@ -1,0 +1,26 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-11 07:09:33 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 07:09:33 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 07:09:33 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 07:09:33 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:46 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:46 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:46 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:46 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:47 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:47 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:47 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 13:44:47 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:41 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:42 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:42 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:42 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:46 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:46 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:46 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 15:46:46 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 23:09:40 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 23:09:40 --> Severity: Notice --> Trying to get property 'name' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 23:09:40 --> Severity: Notice --> Undefined variable: school_profile /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34
+ERROR - 2021-04-11 23:09:40 --> Severity: Notice --> Trying to get property 'district' of non-object /home/u421663715/domains/smkpluspratamaadi.sch.id/public_html/usbn/aila_engine/views/frontend/template/login-template.php 34

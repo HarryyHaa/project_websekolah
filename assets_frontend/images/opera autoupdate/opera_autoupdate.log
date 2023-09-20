@@ -1,0 +1,3 @@
+[3980:7524:0519/093420.894:755640:ERROR:ipc_thread_impl.cc(137)] Unable to create IPC as client!Pipe name used: oauc_task_pipe2c1d54f377f59251e291a374e1ee2dba
+[3980:10892:0519/093423.886:758625:WARNING:update_check_handler_impl_win.cc(75)] [AU] Task failure count : 0
+[3980:10892:0519/093423.887:758625:INFO:protocol_impl.cc(831)] Main update resource available: false

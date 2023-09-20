@@ -1,0 +1,14 @@
+<ifModule mod_rewrite.c>
+
+RewriteEngine on
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule .* index.php/$0 [PT,L]
+
+php_value max_execution_time 1000
+php_value upload_max_filesize 128M
+php_value post_max_size 128M
+php_value date.timezone 'Asia/Jakarta'
+
+</ifModule>

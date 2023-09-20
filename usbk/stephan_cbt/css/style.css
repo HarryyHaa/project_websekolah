@@ -1,0 +1,187 @@
+/* fallback */
+@font-face {
+	font-family: 'Material Icons';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../stephan_cbt/icons/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2') format('woff2');
+}
+
+.material-icons {
+	font-family: 'Material Icons';
+	font-weight: normal;
+	font-style: normal;
+	font-size: 24px;
+	line-height: 1;
+	letter-spacing: normal;
+	text-transform: none;
+	display: inline-block;
+	white-space: nowrap;
+	word-wrap: normal;
+	direction: ltr;
+	-webkit-font-feature-settings: 'liga';
+	-webkit-font-smoothing: antialiased;
+}
+
+.brand-logo{
+	color: #fff !important;
+}
+
+.nav-blue{
+	background: linear-gradient(90deg, rgba(33,150,243,1) 0%, rgba(33,150,243,1) 0%, rgba(0,212,255,1) 100%);
+	border-bottom: 3px solid #fff;
+}
+
+.inverse{
+	background-color: #5f5c57 !important;
+}
+
+.slider h3,
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container{
+	height: 20%;
+}
+
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+
+.clients img{
+	max-width: 150px;
+	filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.8));
+}
+
+footer{
+	padding: 20px 0;
+}
+
+.title{
+	font-size: 2em;
+}
+
+.outter {
+	padding: 0px;
+	border: 4px solid #FFF;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
+
+.red{
+	background-color: #FA2A00 !important;
+	color: #fff;
+}
+
+.primary{
+	background-color:#20a8d8!important;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.right{
+	text-align: right;
+}
+
+.alert-info{
+	color: #336573;
+	background-color: #e0f3f8;
+	border-color: #d3eef6;
+}
+
+.height-470{
+	height: 470px;
+}
+
+.pading-button-30{
+	padding-bottom: 30px !important;
+}
+
+#copyright{
+	left: 0;
+	position: absolute;
+	text-align: center;
+	bottom: 30;
+	width: 100%;
+}
+
+#copyright a{
+	color: #fff;
+}
+
+.hoverable:hover {
+	-webkit-box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+	box-shadow: 0 7px 10px 0 rgba(0,0,0,0.3), 0 5px 5px 0 rgba(0,0,0,0.19);
+}
+
+.menu-name{
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.badge-small{
+	padding: 1px !important;
+}
+
+/* Icon menu */
+.icon-menu .row{
+	margin-bottom: 0px
+}
+
+.icon-menu i{
+	margin-top: 5px;
+	margin-bottom: 5px;    
+	font-size: 60px; 
+	padding-left: 25px;
+}
+
+.icon-menu .right-menu{
+	padding-right: 25px !important;
+}
+
+.icon-menu .number{
+	font-size: 30px;
+}
+
+.icon-menu .card-action{
+	padding: 10px 24px !important;
+	font-size: 12px;
+}
+/**/
+
+@media only screen and (min-width: 370px)
+{
+	.card-right{
+		margin-left: -11px;
+	}
+
+	.card-left{
+		margin-right: -11px;
+	}
+
+	.main-top{
+		margin-top: 70px;
+	}
+}
+
+@media only screen and (max-width: 360px)
+{
+	nav .brand-logo {
+		font-size: 25px !important;
+	}
+
+	.main-top{
+		margin-top: 30px;
+	}
+}
+
+
